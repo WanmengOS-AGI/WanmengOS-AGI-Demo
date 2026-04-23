@@ -1,4 +1,10 @@
-Wanmeng OS Technical White Paper
+# WanmengOS
+A Bare-Metal Independent Operating System with Cross-platform Low-level Control Architecture, Non-von Neumann Architecture Innovation
+
+Keywords: operating-system bare-metal custom-os kernel system-architecture self-developed osdev wanmengos low-level cross-platform non-von-neumann-architecture embedded-system real-time-os
+operating-system bare-metal custom-os kernel system-architecture self-developed osdev wanmengos low-level cross-platform
+
+anmeng OS Technical White Paper
  
 Product Positioning
  
